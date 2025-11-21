@@ -1,0 +1,4 @@
+d = int(input())
+
+print()
+ 

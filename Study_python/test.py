@@ -1,0 +1,2 @@
+a = grthryhtr
+print(a)
