@@ -1,4 +1,4 @@
 d = int(input())
 
-print()
+print(tggggg)
  
