@@ -1,3 +1,2 @@
-a=5
-print( a ) yhtyyt
-fgfgf
+a = grthryhtr
+print(a)
